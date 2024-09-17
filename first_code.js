@@ -1,4 +1,4 @@
-console.log("Hello to my World!"); //to print
+console.log("Hello to my World!1111111111"); //to print
 console.log("Anushree Balaji");
 age = 24; //declaring, maybe the type is automatically defined with the value
 name = "Anushree Balaji";
